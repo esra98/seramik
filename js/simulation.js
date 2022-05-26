@@ -3,17 +3,17 @@ var colorsUsed = {}
 //seçilen rengi değiştirmek için:
 document.getElementById("M3-color").addEventListener("click", function()
 { 
-    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="/images/simulation/colors/M3.jpg">';
+    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="../images/simulation/colors/M3.jpg">';
     colorChosen = "M3"
 });
 document.getElementById("PR2-color").addEventListener("click", function()
 { 
-    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="/images/simulation/colors/PR2.jpg">';
+    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="../images/simulation/colors/PR2.jpg">';
     colorChosen = "PR2"
 });
 document.getElementById("PV2-color").addEventListener("click", function()
 { 
-    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="/images/simulation/colors/PV2.jpg">';
+    document.getElementById("chosen-color").innerHTML = 'Color Chosen: <img src="../images/simulation/colors/PV2.jpg">';
     colorChosen = "PV2"
 });
 // seçilen alanın rengini değiştirmek için:
