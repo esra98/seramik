@@ -816,8 +816,8 @@ footer {
 }
 
 footer.footer-light{
-	background:#F5F9FD;
-	color:#8492a6;
+	background:#E7C8CD;
+	color:#000;
 }
 
 footer.footer-light a{
@@ -4096,10 +4096,6 @@ transform: scale(1.2);
 	height: 34px;
 	text-align: center;
 	font-size: 16px;
-	border-radius: 60px;
-	-moz-border-radius: 60px;
-	-webkit-border-radius: 60px;
-	margin:0 5px 0 5px;
 }
 .social-icons i.fa-google-plus{
 	padding: 12px 14px 10px 6px;

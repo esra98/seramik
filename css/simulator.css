@@ -1,4 +1,112 @@
+.social-icons i{
+    background-color: #514648;
+}
+.social-icons i:hover{
+    background-color: transparent;
+}
+.canvas{
+    background-color: #f2f2f2;
+    height: 100%;
+    width: 100%;
+}
 #chosen-color img{
     border-radius: 50%;
     height: 40px;
+}
+.breadcrumb-home a{
+    color: #000;
+}
+.breadcrumb-home a:hover{
+    color: #E7C8CD;
+}
+.colorPalette img{
+height: 30px;
+width: 30px;
+}
+#square{
+    background-color: #f2f2f2;
+    height: 30px;
+    width: 30px;
+}
+#hexa{
+    background-color: #f2f2f2;
+    height: 30px;
+    width: 30px;
+}
+.chosenCategory{
+    border: 2px solid #000;
+}
+.patternTable img{
+    border: 1px solid #000;
+    margin: 3px;
+}
+.hidden{
+    display: none !important;
+}
+.show{
+    display: block !important;
+}
+.patternChosen{
+    border: 3px solid #000 !important;
+}
+
+#patternsSquare img{
+    cursor: pointer;
+}
+#patternsHexa img{
+    cursor: pointer;
+}
+.pricing{
+    background-color: #F9F9F9;
+    padding: 40px;
+    margin-top: 40px;
+}
+.resetBtn {
+    padding: 5px;
+    text-align: center;
+}
+.resetBtn a{
+    color: #000;
+}
+.resetBtn div{
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    background-color: #fff;
+    border: 1px solid #000 !important;
+    text-align: center;
+    color: #000;
+    padding-top: 18px
+}
+.DownloadBtn{
+    padding: 5px;
+    text-align: center;
+}
+.DownloadBtn div{
+    width: 100%;
+    padding: 5px;
+
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+.finishBtn{
+    padding: 5px;
+    text-align: center;
+}
+.finishBtn div{
+    background-color: #E7C8CD;
+    padding: 5px;
+
+    color: #000;
+}
+.bold{
+    color: #000;
+    font-weight: 700;
+}
+.bold-price{
+    color: #000;
+    font-weight: 700;
+    margin-bottom: 0px;
+    font-size: 32px;
 }
